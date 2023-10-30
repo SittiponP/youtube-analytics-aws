@@ -18,3 +18,6 @@ This project is aims to manage, streamline, and perform analysis on the youtube 
 The dataset that used in this project is from the kaggle it contains statistics on daily popular Youtube videos 
 
 https://www.kaggle.com/datasets/datasnaek/youtube-new
+
+### Example Dashboard
+![img](https://github.com/SittiponP/youtube-analytics-aws/blob/main/my_dashboard.png)

@@ -1,7 +1,7 @@
 # youtube-analytics-aws
 ## Architecture Diagram
 
-![img](https://github.com/darshilparmar/dataengineering-youtube-analysis-project/blob/main/architecture.jpeg)
+![](architecture.jpeg)
 
 ### Project Overview
 This project is aims to manage, streamline, and perform analysis on the youtube data based on the video categories and the trending metrics
